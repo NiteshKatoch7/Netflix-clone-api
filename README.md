@@ -90,10 +90,6 @@ Contributions are welcome! To contribute:
 4. Push to the branch (`git push origin feature/YourFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the ISC License.
-
 ## Acknowledgements
 
 - [Express](https://expressjs.com/)
